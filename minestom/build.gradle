@@ -15,7 +15,7 @@ dependencies {
     implementation project(':common')
     compileOnly project(':common:loader-utils')
 
-    compileOnly 'com.github.Minestom:Minestom:7b8445d0e2'
+    compileOnly 'com.github.DevCyntrix:Minestom:3fe292dd7d'
 }
 
 java {
