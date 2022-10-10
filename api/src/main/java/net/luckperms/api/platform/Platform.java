@@ -77,6 +77,7 @@ public interface Platform {
         VELOCITY("Velocity"),
         FABRIC("Fabric"),
         FORGE("Forge"),
+        STANDALONE("Standalone"),
         MINESTOM("Minestom");
 
         private final String friendlyName;

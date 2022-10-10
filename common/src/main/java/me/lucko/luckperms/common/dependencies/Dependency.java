@@ -64,29 +64,29 @@ public enum Dependency {
     ADVENTURE(
             "me{}lucko",
             "adventure-api",
-            "4.9.4",
-            "bh1cB0ZdzxstqRfVowKbgAZM16T/CtJ7oIJCaknbGeM=",
+            "4.11.0",
+            "7xrFaBbsTiQPZKBDzvDnTd8XIgOsHTy9qQICm3342GU=",
             Relocation.of("adventure", "net{}kyori{}adventure")
     ),
     ADVENTURE_PLATFORM(
             "me{}lucko",
             "adventure-platform-api",
-            "4.9.4",
-            "CZVyxNOi7ln7dgldfDs1m1M6d9w/bKG8Rp27qfAuTJw=",
+            "4.11.2",
+            "zCnxNgosme++TsheFaL+YHdtRIrp+oJhUiI8awsKgfQ=",
             Relocation.of("adventure", "net{}kyori{}adventure")
     ),
     ADVENTURE_PLATFORM_BUKKIT(
             "me{}lucko",
             "adventure-platform-bukkit",
-            "4.9.4",
-            "JkA3GGkf3pADA3PACYfdVlAglstgzz+ajAxElMXXn6I=",
+            "4.11.2",
+            "mrtYZvt00GH4oejuBJ2QEbFkmz1F+PGmthPwroSxCgo=",
             Relocation.of("adventure", "net{}kyori{}adventure")
     ),
     ADVENTURE_PLATFORM_BUNGEECORD(
             "me{}lucko",
             "adventure-platform-bungeecord",
-            "4.9.4",
-            "a/p8/eIjbQnNlN5cJ/yIUjttZyJ/GRXgcsg8rhY7SwI=",
+            "4.11.2",
+            "+WUdRdZ6qkacw3ha/R3ayLx46soMywGe70Zmnw4yha8=",
             Relocation.of("adventure", "net{}kyori{}adventure")
     ),
     EVENT(
@@ -128,8 +128,8 @@ public enum Dependency {
     COMMODORE(
             "me{}lucko",
             "commodore",
-            "1.13",
-            "A4M1Im54vrYbcdSpteQvI6ppNPYWL+VpfBVjsdteY+M=",
+            "2.2",
+            "hmZ3A/Sf8LvrT95buTlFNwdEBZ36X9Ks8SKOS1b7f28=",
             Relocation.of("commodore", "me{}lucko{}commodore")
     ),
     COMMODORE_FILE(
